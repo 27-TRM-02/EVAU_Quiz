@@ -19,5 +19,5 @@ $(document).ready(function () {
   });
 
   function registra() {
-    $("#principal").load("registra.php");
+    $("#principal").load("registra.html");
   }
